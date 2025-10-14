@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=header&text=Gustavo+Brito&fontSize=30&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b59b6&size=35&center=true&vCenter=true&width=1300&lines=OL%C3%81,+MEU+NOME+%C3%A9+Gustavo+Brito;Tenho+20+anos;Sou+de+Sousa,+Para%C3%ADba,+Brasil;Estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+no+IFPB+-+Cajazeiras;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b59b6&size=35&center=true&vCenter=true&width=1300&lines=OL%C3%81,+MEU+NOME+%C3%A9+Gustavo+Brito;Tenho+21+anos;Sou+de+Sousa,+Para%C3%ADba,+Brasil;Estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+no+IFPB+-+Cajazeiras;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GussBrito&show_icons=true&count_private=true&hide_border=true&title_color=9b59b6&icon_color=9b59b6&text_color=d8b4fe&bg_color=0d1117" alt="Gustavo Brito github stats" /> 
@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,html,css,figma,python,MySQL" />
   </a>
 </p>
 
