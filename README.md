@@ -49,7 +49,7 @@ https://drive.google.com/drive/folders/1YvgfUIMeU5dRarwGTG1RiYsz2P3XnYi0?usp=sha
   <a href="https://www.linkedin.com/in/luiz-gustavo-b81a58148" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/gustavo.brittoo" target="_blank">
+  <a href="https://www.instagram.com/guga_brittoo?igsh=amN1OTJjbDZmeDVz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
